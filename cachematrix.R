@@ -1,3 +1,7 @@
+##This Code is to find the Inverse of a Square Matrix using "makeCacheMatrix" and "cacheSolve functions"
+##makeCacheMatrix is to create the matrix
+##cacheSolve is to find the inverse of the above matrix
+
 makeCacheMatrix <- function(x = numeric()) {
   mat <- NULL
   set <- function(y) {
